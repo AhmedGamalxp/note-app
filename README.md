@@ -1,16 +1,18 @@
-# note_app
 
-A new Flutter project.
+# Note App
+it's a simple note app using hive local database and cubit state management .
 
-## Getting Started
+## Features
+- adding notes
+- editing notes
+- delate notes 
 
-This project is a starting point for a Flutter application.
+## Technologies
+- flutter / dart
+- hive 
+- cubit state management
+- local database
+- version controll
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src="screen shots/ss1.png" width=300 hight=400>  <img src="screen shots/ss2.png" width=300 hight=400>   <img src="screen shots/ss3.png" width=300 hight=400>   <img src="screen shots/ss4.png" width=300 hight=400>
